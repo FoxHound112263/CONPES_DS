@@ -7,25 +7,25 @@ Text analysis of the CONPES documents of Colombia. The first part of this work w
 
 ## Work done
 
-![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/work.png)
+![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/work.PNG)
 
 ## Descriptive analysis
 
-![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/presi.png)
+![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/presi.PNG)
 
 ## Comparison between types of CONPES
 
-![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/scatter.png)
+![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/scatter.PNG)
 
 ## High dimensional visualization of groups
 
-![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/cluster.png)
+![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/cluster.PNG)
 
 ## Curious findings
 
-![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/insight.png)
+![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/insight.PNG)
 
 ## Reactive policy
 
-![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/barometer.png)
+![image](https://github.com/FoxHound112263/CONPES_DS/blob/master/output/barometer.PNG)
 
